@@ -15873,3 +15873,662 @@ Script call stack:
 [2021.06.12-12.31.39:322][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.06.12-12.31.39:328][300]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
 [2021.06.12-12.31.39:352][301]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2021.06.12-12.33.19:791][932]LogSavePackage: Moving 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/W_ConveyorElement3AF0A65C486C383C916A5F95CB96EAD3.tmp' to 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/Conveyor/W_ConveyorElement.uasset'
+[2021.06.12-12.33.19:810][932]AssetCheck: New page: Asset Save: W_ConveyorElement
+[2021.06.12-12.33.19:810][932]LogContentValidation: Display: Validating WidgetBlueprint /Game/Code/Widgets/Conveyor/W_ConveyorElement.W_ConveyorElement
+[2021.06.12-12.33.41:835][384]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.06.12-12.33.41:855][384]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.06.12-12.33.43:994][625]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_Creature
+[2021.06.12-12.33.43:999][625]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.06.12-12.33.45:261][746]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Code/Widgets/W_Creature.W_Creature
+[2021.06.12-12.38.24:892][778]BlueprintLog: New page: Compile W_Creature
+[2021.06.12-12.38.24:960][778]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2021.06.12-12.39.17:386][918]BlueprintLog: New page: Compile W_Creature
+[2021.06.12-12.39.17:388][918]LogClass: Warning: Type mismatch in shoulderPivot of W_Creature_C - Previous (BoolProperty) Current(StructProperty) for package:  FObjectReader
+[2021.06.12-12.39.17:388][918]LogBlueprint: Warning: [AssetLog] /Game/Code/Widgets/W_Creature.W_Creature (no disk path found): [Compiler] Can't parse default value 'False' for  . Property: shoulderPivot.
+[2021.06.12-12.39.17:444][918]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2021.06.12-12.39.17:931][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Widgets/W_Creature" FILE="C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset" SILENT=true
+[2021.06.12-12.39.17:936][958]LogSavePackage: Moving 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/W_Creature83C6A1DF40DBED184F264D9BE6798F8B.tmp' to 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset'
+[2021.06.12-12.39.17:955][958]AssetCheck: New page: Asset Save: W_Creature
+[2021.06.12-12.39.17:956][958]LogContentValidation: Display: Validating WidgetBlueprint /Game/Code/Widgets/W_Creature.W_Creature
+[2021.06.12-12.39.24:129][644]BlueprintLog: New page: Compile W_Creature
+[2021.06.12-12.39.24:212][644]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2021.06.12-12.40.00:055][843]BlueprintLog: New page: Compile W_Creature
+[2021.06.12-12.40.00:109][843]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2021.06.12-12.40.37:936][355]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2021.06.12-12.40.37:937][355]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.058
+[2021.06.12-12.40.37:937][355]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Code/Widgets/W_Main] ([2] browsable assets)...
+[2021.06.12-12.40.37:937][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/Code/Widgets/W_Main]
+[2021.06.12-12.40.37:937][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Widgets/W_Main" FILE="C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/Autosaves/Game/Code/Widgets/W_Main_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2021.06.12-12.40.38:030][355]LogSavePackage: Moving 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/W_Main_Auto7B1D7FEC841072060955D4BB07974C0A5.tmp' to 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/Autosaves/Game/Code/Widgets/W_Main_Auto7.uasset'
+[2021.06.12-12.40.38:031][355]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Code/Widgets/W_Creature] ([1] browsable assets)...
+[2021.06.12-12.40.38:032][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/Code/Widgets/W_Creature]
+[2021.06.12-12.40.38:037][355]LogSavePackage: Moving 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/W_Creature_Auto79EB38EB5438E00A3EF3C628643CC3CC4.tmp' to 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/Autosaves/Game/Code/Widgets/W_Creature_Auto7.uasset'
+[2021.06.12-12.40.38:038][355]LogFileHelpers: Auto-saving content packages took 0.101
+[2021.06.12-12.41.33:870][357]BlueprintLog: New page: Compile W_Creature
+[2021.06.12-12.41.33:940][357]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2021.06.12-12.41.34:301][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Widgets/W_Creature" FILE="C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset" SILENT=true
+[2021.06.12-12.41.34:309][380]LogSavePackage: Moving 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/W_Creature272594F44698845B19BC5584D5E37A8E.tmp' to 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset'
+[2021.06.12-12.41.34:332][380]AssetCheck: New page: Asset Save: W_Creature
+[2021.06.12-12.41.34:332][380]LogContentValidation: Display: Validating WidgetBlueprint /Game/Code/Widgets/W_Creature.W_Creature
+[2021.06.12-12.45.03:882][741]BlueprintLog: New page: Compile W_Creature
+[2021.06.12-12.45.03:983][741]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2021.06.12-12.45.08:284][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Widgets/W_Creature" FILE="C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset" SILENT=true
+[2021.06.12-12.45.08:292][127]LogSavePackage: Moving 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/W_CreatureE6D017004788B20C07AB22B200340FED.tmp' to 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset'
+[2021.06.12-12.45.08:311][127]AssetCheck: New page: Asset Save: W_Creature
+[2021.06.12-12.45.08:311][127]LogContentValidation: Display: Validating WidgetBlueprint /Game/Code/Widgets/W_Creature.W_Creature
+[2021.06.12-12.45.54:687][518]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Blueprints/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2021.06.12-12.46.23:325][957]BlueprintLog: New page: Compile W_Creature
+[2021.06.12-12.46.23:418][957]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2021.06.12-12.49.32:439][824]BlueprintLog: New page: Compile W_Creature
+[2021.06.12-12.49.32:510][824]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2021.06.12-12.50.31:766][ 88]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.06.12-12.51.07:699][ 17]BlueprintLog: New page: Compile W_Creature
+[2021.06.12-12.51.07:771][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   8.12ms
+[2021.06.12-12.51.08:133][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Widgets/W_Creature" FILE="C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset" SILENT=true
+[2021.06.12-12.51.08:146][ 34]LogSavePackage: Moving 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/W_Creature331C563048557ABA5F47BEA78847D575.tmp' to 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset'
+[2021.06.12-12.51.08:168][ 34]AssetCheck: New page: Asset Save: W_Creature
+[2021.06.12-12.51.08:168][ 34]LogContentValidation: Display: Validating WidgetBlueprint /Game/Code/Widgets/W_Creature.W_Creature
+[2021.06.12-12.52.58:973][922]BlueprintLog: New page: Compile W_Creature
+[2021.06.12-12.52.59:071][922]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2021.06.12-12.55.41:032][307]BlueprintLog: New page: Compile W_Creature
+[2021.06.12-12.55.41:138][307]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2021.06.12-12.55.41:485][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Widgets/W_Creature" FILE="C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset" SILENT=true
+[2021.06.12-12.55.41:505][335]LogSavePackage: Moving 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/W_Creature9EFE7AE7449645F1068D26924D6FE615.tmp' to 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset'
+[2021.06.12-12.55.41:529][335]AssetCheck: New page: Asset Save: W_Creature
+[2021.06.12-12.55.41:529][335]LogContentValidation: Display: Validating WidgetBlueprint /Game/Code/Widgets/W_Creature.W_Creature
+[2021.06.12-12.57.32:171][223]BlueprintLog: New page: Compile W_Creature
+[2021.06.12-12.57.32:291][223]LogUObjectHash: Compacting FUObjectHashTables data took   8.48ms
+[2021.06.12-12.57.41:065][153]LogEditorTransaction: Undo Delete current selection
+[2021.06.12-12.58.11:753][918]LogEditorTransaction: Undo Move Node
+[2021.06.12-12.58.12:016][924]LogEditorTransaction: Undo Delete current selection
+[2021.06.12-12.59.32:420][828]BlueprintLog: New page: Compile W_Creature
+[2021.06.12-12.59.32:525][828]LogUObjectHash: Compacting FUObjectHashTables data took   6.71ms
+[2021.06.12-12.59.32:902][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Widgets/W_Creature" FILE="C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset" SILENT=true
+[2021.06.12-12.59.32:922][858]LogSavePackage: Moving 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/W_CreatureE61A7C5A4387782F8FE0B389BA3C630C.tmp' to 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset'
+[2021.06.12-12.59.32:944][858]AssetCheck: New page: Asset Save: W_Creature
+[2021.06.12-12.59.32:944][858]LogContentValidation: Display: Validating WidgetBlueprint /Game/Code/Widgets/W_Creature.W_Creature
+[2021.06.12-13.00.15:364][ 21]BlueprintLog: New page: Compile W_Creature
+[2021.06.12-13.00.15:476][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   6.97ms
+[2021.06.12-13.00.15:900][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Widgets/W_Creature" FILE="C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset" SILENT=true
+[2021.06.12-13.00.15:924][ 54]LogSavePackage: Moving 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/W_Creature608FBCE14F02F193E981D69B2CC3DEE2.tmp' to 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset'
+[2021.06.12-13.00.15:944][ 54]AssetCheck: New page: Asset Save: W_Creature
+[2021.06.12-13.00.15:944][ 54]LogContentValidation: Display: Validating WidgetBlueprint /Game/Code/Widgets/W_Creature.W_Creature
+[2021.06.12-13.00.47:652][ 17]BlueprintLog: New page: Compile W_Creature
+[2021.06.12-13.00.47:757][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2021.06.12-13.00.48:088][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Widgets/W_Creature" FILE="C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset" SILENT=true
+[2021.06.12-13.00.48:116][ 44]LogSavePackage: Moving 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/W_Creature90EDD81B4CA57B04E0B1E78D2CCE17BB.tmp' to 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset'
+[2021.06.12-13.00.48:136][ 44]AssetCheck: New page: Asset Save: W_Creature
+[2021.06.12-13.00.48:136][ 44]LogContentValidation: Display: Validating WidgetBlueprint /Game/Code/Widgets/W_Creature.W_Creature
+[2021.06.12-13.01.10:291][964]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.12-13.01.10:304][964]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.06.12-13.01.10:320][964]LogPlayLevel: [PlayLevel] Compiling W_Main before play...
+[2021.06.12-13.01.11:187][964]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.06.12-13.01.12:399][964]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.211 s
+[2021.06.12-13.01.12:399][964]LogOutputDevice: Error: === Handled ensure: ===
+[2021.06.12-13.01.12:399][964]LogOutputDevice: Error: 
+[2021.06.12-13.01.12:399][964]LogOutputDevice: Error: Ensure condition failed: !IsGarbageCollecting() [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/UMG/Private/Slate/SObjectWidget.cpp] [Line: 43]
+[2021.06.12-13.01.12:399][964]LogOutputDevice: Error: SObjectWidget for 'W_BodyPart_C /Engine/Transient.World_1:W_Main_C_309.WidgetTree.W_Table.WidgetTree.Torso' destroyed while collecting garbage.  This can lead to multiple GCs being required to cleanup the object.  Possible causes might be,
+[2021.06.12-13.01.12:399][964]LogOutputDevice: Error: 1) ReleaseSlateResources not being implemented for the owner of this pointer.
+[2021.06.12-13.01.12:399][964]LogOutputDevice: Error: 2) You may just be holding onto some slate pointers on an actor that don't get reset until the actor is Garbage Collected.  You should avoid doing this, and instead reset those references when the actor is Destroyed.
+[2021.06.12-13.01.12:399][964]LogOutputDevice: Error: Stack: 
+[2021.06.12-13.01.12:399][964]LogOutputDevice: Error: [Callstack] 0x00007ffb368cdb1e UE4Editor-UMG.dll!UnknownFunction []
+[2021.06.12-13.01.12:399][964]LogOutputDevice: Error: [Callstack] 0x00007ffb36719972 UE4Editor-UMG.dll!UnknownFunction []
+[2021.06.12-13.01.12:399][964]LogOutputDevice: Error: [Callstack] 0x00007ffb3765a711 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-13.01.12:399][964]LogOutputDevice: Error: [Callstack] 0x00007ffb375d190e UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-13.01.12:399][964]LogOutputDevice: Error: [Callstack] 0x00007ffb3765a711 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-13.01.12:399][964]LogOutputDevice: Error: [Callstack] 0x00007ffb3ff1861e UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.12-13.01.12:399][964]LogOutputDevice: Error: [Callstack] 0x00007ffb3ff05c42 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.12-13.01.12:399][964]LogOutputDevice: Error: [Callstack] 0x00007ffb3ff0a829 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.12-13.01.12:399][964]LogOutputDevice: Error: [Callstack] 0x00007ffb3765a711 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-13.01.12:399][964]LogOutputDevice: Error: [Callstack] 0x00007ffb375da0e6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-13.01.12:399][964]LogOutputDevice: Error: [Callstack] 0x00007ffb375d1a1a UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-13.01.12:399][964]LogOutputDevice: Error: [Callstack] 0x00007ffb3765a711 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-13.01.12:400][964]LogOutputDevice: Error: [Callstack] 0x00007ffb3ff1861e UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.12-13.01.12:400][964]LogOutputDevice: Error: [Callstack] 0x00007ffb3ff05c42 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.12-13.01.12:400][964]LogOutputDevice: Error: [Callstack] 0x00007ffb3ff0a829 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.12-13.01.12:400][964]LogOutputDevice: Error: [Callstack] 0x00007ffb3765a711 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-13.01.12:400][964]LogOutputDevice: Error: [Callstack] 0x00007ffb375da0e6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-13.01.12:400][964]LogOutputDevice: Error: [Callstack] 0x00007ffb375d1a1a UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-13.01.12:400][964]LogOutputDevice: Error: [Callstack] 0x00007ffb375d79ab UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-13.01.12:400][964]LogOutputDevice: Error: [Callstack] 0x00007ffb3674aebd UE4Editor-UMG.dll!UnknownFunction []
+[2021.06.12-13.01.12:400][964]LogOutputDevice: Error: [Callstack] 0x00007ffb37d69bc8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.06.12-13.01.12:400][964]LogOutputDevice: Error: [Callstack] 0x00007ffb37d488d8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.06.12-13.01.12:400][964]LogOutputDevice: Error: [Callstack] 0x00007ffb37cc9ec1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.06.12-13.01.12:400][964]LogOutputDevice: Error: [Callstack] 0x00007ffb37cc8e8c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.06.12-13.01.12:400][964]LogOutputDevice: Error: [Callstack] 0x00007ffb19c60738 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.06.12-13.01.12:400][964]LogOutputDevice: Error: [Callstack] 0x00007ffb19c67f6e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.06.12-13.01.12:400][964]LogOutputDevice: Error: [Callstack] 0x00007ffb19c6c1d1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.06.12-13.01.12:400][964]LogOutputDevice: Error: [Callstack] 0x00007ffb19c6ba98 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.06.12-13.01.12:400][964]LogOutputDevice: Error: [Callstack] 0x00007ffb196c8c38 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.06.12-13.01.12:400][964]LogOutputDevice: Error: [Callstack] 0x00007ffb19fe50e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.06.12-13.01.12:400][964]LogOutputDevice: Error: [Callstack] 0x00007ff652589bc2 UE4Editor.exe!UnknownFunction []
+[2021.06.12-13.01.12:400][964]LogOutputDevice: Error: [Callstack] 0x00007ff6525a117c UE4Editor.exe!UnknownFunction []
+[2021.06.12-13.01.12:400][964]LogOutputDevice: Error: [Callstack] 0x00007ff6525a125a UE4Editor.exe!UnknownFunction []
+[2021.06.12-13.01.12:400][964]LogOutputDevice: Error: [Callstack] 0x00007ff6525b52bd UE4Editor.exe!UnknownFunction []
+[2021.06.12-13.01.12:400][964]LogOutputDevice: Error: [Callstack] 0x00007ff6525b7fea UE4Editor.exe!UnknownFunction []
+[2021.06.12-13.01.12:400][964]LogOutputDevice: Error: [Callstack] 0x00007ffb82847034 KERNEL32.DLL!UnknownFunction []
+[2021.06.12-13.01.12:400][964]LogOutputDevice: Error: [Callstack] 0x00007ffb82982651 ntdll.dll!UnknownFunction []
+[2021.06.12-13.01.12:400][964]LogOutputDevice: Error: 
+[2021.06.12-13.01.12:406][964]LogStats:                SubmitErrorReport -  0.000 s
+[2021.06.12-13.01.14:259][964]LogStats:                    SendNewReport -  1.854 s
+[2021.06.12-13.01.14:259][964]LogStats:             FDebug::EnsureFailed -  3.072 s
+[2021.06.12-13.01.14:287][964]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2021.06.12-13.01.14:288][964]LogPlayLevel: PlayLevel: Blueprint regeneration took 3984 ms (1 blueprints)
+[2021.06.12-13.01.14:288][964]PIE: New page: PIE session: Minimal_Default (12 Jun 2021, 17:01:14)
+[2021.06.12-13.01.14:291][964]LogAudioMixer: Resetting audio stream to device id 
+[2021.06.12-13.01.14:329][964]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.12-13.01.14:329][964]LogAudioMixer: Display: 1: FrontRight
+[2021.06.12-13.01.14:370][964]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.12-13.01.14:378][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008342s)
+[2021.06.12-13.01.14:380][964]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.06.12-13.01.14:380][964]LogPlayLevel: PIE: World Init took: (0.001821s)
+[2021.06.12-13.01.14:380][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.010379s)
+[2021.06.12-13.01.14:429][964]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2021.06.12-13.01.14:429][964]LogAudio: Display: Creating Audio Device:                 Id: 70, Scope: Unique, Realtime: True
+[2021.06.12-13.01.14:429][964]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.12-13.01.14:429][964]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.12-13.01.14:429][964]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.12-13.01.14:429][964]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.12-13.01.14:429][964]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.12-13.01.14:429][964]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.12-13.01.14:429][964]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.12-13.01.14:429][964]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.12-13.01.14:430][964]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.12-13.01.14:430][964]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.12-13.01.14:436][964]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.12-13.01.14:436][964]LogAudioMixer: Display: 1: FrontRight
+[2021.06.12-13.01.14:450][964]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2021.06.12-13.01.14:451][964]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.12-13.01.14:451][964]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.12-13.01.14:451][964]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.12-13.01.14:451][964]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.12-13.01.14:451][964]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.12-13.01.14:452][964]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.12-13.01.14:471][964]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.12-13.01.14:471][964]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.12-13.01.14:471][964]LogInit: FAudioDevice initialized.
+[2021.06.12-13.01.14:472][964]LogAudio: Display: Audio Device (ID: 70) registered with world 'Minimal_Default'.
+[2021.06.12-13.01.14:482][964]LogLoad: Game class is 'GameModeBase'
+[2021.06.12-13.01.14:484][964]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.06.12-15.01.14
+[2021.06.12-13.01.14:485][964]LogWorld: Bringing up level for play took: 0.001247
+[2021.06.12-13.01.14:485][964]LogOnline: OSS: Creating online subsystem instance for: :Context_90
+[2021.06.12-13.01.14:489][964]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.12-13.01.14:489][964]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.06.12-13.01.14:489][964]PIE: Server logged in
+[2021.06.12-13.01.14:491][964]PIE: Play in editor total start time 4,189 seconds.
+[2021.06.12-13.01.22:444][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-13.01.22:445][641]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.12-13.01.22:445][641]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.06.12-13.01.22:445][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-13.01.22:458][641]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.12-13.01.22:467][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-13.01.22:518][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-13.01.22:518][641]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-13.01.22:519][641]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-13.01.22:546][641]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.06.12-13.01.22:581][642]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2021.06.12-13.02.37:300][498]BlueprintLog: New page: Compile W_Creature
+[2021.06.12-13.02.37:435][498]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2021.06.12-13.02.37:668][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Widgets/W_Creature" FILE="C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset" SILENT=true
+[2021.06.12-13.02.37:693][504]LogSavePackage: Moving 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/W_Creature2DB8CAE246FC3C563608AC9DDC03FE51.tmp' to 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset'
+[2021.06.12-13.02.37:710][504]AssetCheck: New page: Asset Save: W_Creature
+[2021.06.12-13.02.37:710][504]LogContentValidation: Display: Validating WidgetBlueprint /Game/Code/Widgets/W_Creature.W_Creature
+[2021.06.12-13.02.57:792][311]BlueprintLog: New page: Compile W_Creature
+[2021.06.12-13.02.57:918][311]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2021.06.12-13.02.58:217][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Widgets/W_Creature" FILE="C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset" SILENT=true
+[2021.06.12-13.02.58:244][323]LogSavePackage: Moving 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/W_Creature510846EC458F4C1C6704FB96E6F267F4.tmp' to 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset'
+[2021.06.12-13.02.58:261][323]AssetCheck: New page: Asset Save: W_Creature
+[2021.06.12-13.02.58:261][323]LogContentValidation: Display: Validating WidgetBlueprint /Game/Code/Widgets/W_Creature.W_Creature
+[2021.06.12-13.03.11:711][638]BlueprintLog: New page: Compile W_Creature
+[2021.06.12-13.03.11:824][638]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2021.06.12-13.03.12:167][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Widgets/W_Creature" FILE="C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset" SILENT=true
+[2021.06.12-13.03.12:196][662]LogSavePackage: Moving 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/W_Creature141D13554CD5905FF784ED8A8DC1615F.tmp' to 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset'
+[2021.06.12-13.03.12:215][662]AssetCheck: New page: Asset Save: W_Creature
+[2021.06.12-13.03.12:215][662]LogContentValidation: Display: Validating WidgetBlueprint /Game/Code/Widgets/W_Creature.W_Creature
+[2021.06.12-13.03.23:263][738]BlueprintLog: New page: Compile W_Creature
+[2021.06.12-13.03.23:384][738]LogUObjectHash: Compacting FUObjectHashTables data took   7.40ms
+[2021.06.12-13.03.23:670][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Widgets/W_Creature" FILE="C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset" SILENT=true
+[2021.06.12-13.03.23:697][756]LogSavePackage: Moving 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/W_Creature7C434A1F4220BD1845B83E9E1BEF0555.tmp' to 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset'
+[2021.06.12-13.03.23:717][756]AssetCheck: New page: Asset Save: W_Creature
+[2021.06.12-13.03.23:717][756]LogContentValidation: Display: Validating WidgetBlueprint /Game/Code/Widgets/W_Creature.W_Creature
+[2021.06.12-13.03.43:108][689]BlueprintLog: New page: Compile W_Creature
+[2021.06.12-13.03.43:227][689]LogUObjectHash: Compacting FUObjectHashTables data took   7.47ms
+[2021.06.12-13.03.43:564][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Widgets/W_Creature" FILE="C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset" SILENT=true
+[2021.06.12-13.03.43:615][710]LogSavePackage: Moving 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/W_CreatureF5FED2DD49D1E5B5F9BDB3AE87D2217C.tmp' to 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset'
+[2021.06.12-13.03.43:646][710]AssetCheck: New page: Asset Save: W_Creature
+[2021.06.12-13.03.43:646][710]LogContentValidation: Display: Validating WidgetBlueprint /Game/Code/Widgets/W_Creature.W_Creature
+[2021.06.12-13.03.44:592][784]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.12-13.03.44:600][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.12-13.03.44:600][784]PIE: New page: PIE session: Minimal_Default (12 Jun 2021, 17:03:44)
+[2021.06.12-13.03.44:601][784]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.12-13.03.44:607][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006777s)
+[2021.06.12-13.03.44:609][784]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.06.12-13.03.44:610][784]LogPlayLevel: PIE: World Init took: (0.002096s)
+[2021.06.12-13.03.44:610][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.009105s)
+[2021.06.12-13.03.44:667][784]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2021.06.12-13.03.44:668][784]LogAudio: Display: Creating Audio Device:                 Id: 71, Scope: Unique, Realtime: True
+[2021.06.12-13.03.44:668][784]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.12-13.03.44:668][784]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.12-13.03.44:668][784]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.12-13.03.44:668][784]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.12-13.03.44:668][784]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.12-13.03.44:668][784]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.12-13.03.44:668][784]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.12-13.03.44:668][784]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.12-13.03.44:669][784]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.12-13.03.44:669][784]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.12-13.03.44:674][784]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.12-13.03.44:674][784]LogAudioMixer: Display: 1: FrontRight
+[2021.06.12-13.03.44:689][784]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2021.06.12-13.03.44:689][784]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.12-13.03.44:689][784]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.12-13.03.44:689][784]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.12-13.03.44:689][784]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.12-13.03.44:689][784]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.12-13.03.44:690][784]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.12-13.03.44:705][784]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.12-13.03.44:705][784]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.12-13.03.44:705][784]LogInit: FAudioDevice initialized.
+[2021.06.12-13.03.44:705][784]LogAudio: Display: Audio Device (ID: 71) registered with world 'Minimal_Default'.
+[2021.06.12-13.03.44:713][784]LogLoad: Game class is 'GameModeBase'
+[2021.06.12-13.03.44:715][784]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.06.12-15.03.44
+[2021.06.12-13.03.44:715][784]LogWorld: Bringing up level for play took: 0.001020
+[2021.06.12-13.03.44:715][784]LogOnline: OSS: Creating online subsystem instance for: :Context_91
+[2021.06.12-13.03.44:719][784]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.12-13.03.44:719][784]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.06.12-13.03.44:719][784]PIE: Server logged in
+[2021.06.12-13.03.44:721][784]PIE: Play in editor total start time 0,121 seconds.
+[2021.06.12-13.03.55:654][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-13.03.55:654][758]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.12-13.03.55:654][758]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.06.12-13.03.55:654][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-13.03.55:661][758]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.12-13.03.55:670][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-13.03.55:720][758]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.12-13.03.55:720][758]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-13.03.55:722][758]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-13.03.55:745][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-13.03.55:751][758]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2021.06.12-13.03.55:778][759]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2021.06.12-13.04.08:926][874]LogSlate: Window 'Widget Reflector' being destroyed
+[2021.06.12-13.04.08:936][874]LogSlate: Window 'Widget Reflector' being destroyed
+[2021.06.12-13.05.07:160][921]BlueprintLog: New page: Compile W_Creature
+[2021.06.12-13.05.07:295][921]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2021.06.12-13.05.07:603][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Widgets/W_Creature" FILE="C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset" SILENT=true
+[2021.06.12-13.05.07:631][943]LogSavePackage: Moving 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/W_Creature1A21AB624080254CA2B5C2A4B682F0F6.tmp' to 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset'
+[2021.06.12-13.05.07:655][943]AssetCheck: New page: Asset Save: W_Creature
+[2021.06.12-13.05.07:655][943]LogContentValidation: Display: Validating WidgetBlueprint /Game/Code/Widgets/W_Creature.W_Creature
+[2021.06.12-13.05.08:916][ 56]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.12-13.05.08:926][ 56]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.12-13.05.08:926][ 56]PIE: New page: PIE session: Minimal_Default (12 Jun 2021, 17:05:08)
+[2021.06.12-13.05.08:928][ 56]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.12-13.05.08:935][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007293s)
+[2021.06.12-13.05.08:936][ 56]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.06.12-13.05.08:937][ 56]LogPlayLevel: PIE: World Init took: (0.001673s)
+[2021.06.12-13.05.08:937][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.009218s)
+[2021.06.12-13.05.08:984][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2021.06.12-13.05.08:985][ 56]LogAudio: Display: Creating Audio Device:                 Id: 72, Scope: Unique, Realtime: True
+[2021.06.12-13.05.08:985][ 56]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.12-13.05.08:985][ 56]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.12-13.05.08:985][ 56]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.12-13.05.08:985][ 56]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.12-13.05.08:985][ 56]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.12-13.05.08:985][ 56]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.12-13.05.08:985][ 56]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.12-13.05.08:985][ 56]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.12-13.05.08:986][ 56]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.12-13.05.08:986][ 56]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.12-13.05.08:991][ 56]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.12-13.05.08:991][ 56]LogAudioMixer: Display: 1: FrontRight
+[2021.06.12-13.05.09:005][ 56]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2021.06.12-13.05.09:005][ 56]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.12-13.05.09:005][ 56]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.12-13.05.09:006][ 56]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.12-13.05.09:006][ 56]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.12-13.05.09:006][ 56]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.12-13.05.09:006][ 56]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.12-13.05.09:022][ 56]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.12-13.05.09:022][ 56]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.12-13.05.09:022][ 56]LogInit: FAudioDevice initialized.
+[2021.06.12-13.05.09:022][ 56]LogAudio: Display: Audio Device (ID: 72) registered with world 'Minimal_Default'.
+[2021.06.12-13.05.09:035][ 56]LogLoad: Game class is 'GameModeBase'
+[2021.06.12-13.05.09:036][ 56]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.06.12-15.05.09
+[2021.06.12-13.05.09:036][ 56]LogWorld: Bringing up level for play took: 0.001031
+[2021.06.12-13.05.09:037][ 56]LogOnline: OSS: Creating online subsystem instance for: :Context_92
+[2021.06.12-13.05.09:040][ 56]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.12-13.05.09:040][ 56]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.06.12-13.05.09:040][ 56]PIE: Server logged in
+[2021.06.12-13.05.09:042][ 56]PIE: Play in editor total start time 0,117 seconds.
+[2021.06.12-13.05.11:815][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-13.05.11:815][329]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.12-13.05.11:815][329]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.06.12-13.05.11:816][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-13.05.11:831][329]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.12-13.05.11:842][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-13.05.11:899][329]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.12-13.05.11:900][329]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-13.05.11:901][329]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-13.05.11:928][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-13.05.11:934][329]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2021.06.12-13.05.11:962][330]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2021.06.12-13.05.20:672][158]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.12-13.05.20:679][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.12-13.05.20:679][158]PIE: New page: PIE session: Minimal_Default (12 Jun 2021, 17:05:20)
+[2021.06.12-13.05.20:702][158]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.12-13.05.20:714][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011841s)
+[2021.06.12-13.05.20:716][158]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.06.12-13.05.20:716][158]LogPlayLevel: PIE: World Init took: (0.002177s)
+[2021.06.12-13.05.20:716][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.014386s)
+[2021.06.12-13.05.20:777][158]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2021.06.12-13.05.20:779][158]LogAudio: Display: Creating Audio Device:                 Id: 73, Scope: Unique, Realtime: True
+[2021.06.12-13.05.20:779][158]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.12-13.05.20:779][158]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.12-13.05.20:779][158]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.12-13.05.20:779][158]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.12-13.05.20:779][158]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.12-13.05.20:779][158]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.12-13.05.20:779][158]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.12-13.05.20:779][158]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.12-13.05.20:780][158]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.12-13.05.20:780][158]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.12-13.05.20:787][158]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.12-13.05.20:787][158]LogAudioMixer: Display: 1: FrontRight
+[2021.06.12-13.05.20:804][158]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2021.06.12-13.05.20:805][158]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.12-13.05.20:805][158]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.12-13.05.20:805][158]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.12-13.05.20:805][158]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.12-13.05.20:806][158]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.12-13.05.20:806][158]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.12-13.05.20:827][158]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.12-13.05.20:827][158]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.12-13.05.20:827][158]LogInit: FAudioDevice initialized.
+[2021.06.12-13.05.20:827][158]LogAudio: Display: Audio Device (ID: 73) registered with world 'Minimal_Default'.
+[2021.06.12-13.05.20:837][158]LogLoad: Game class is 'GameModeBase'
+[2021.06.12-13.05.20:839][158]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.06.12-15.05.20
+[2021.06.12-13.05.20:840][158]LogWorld: Bringing up level for play took: 0.001310
+[2021.06.12-13.05.20:840][158]LogOnline: OSS: Creating online subsystem instance for: :Context_93
+[2021.06.12-13.05.20:845][158]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.12-13.05.20:845][158]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.06.12-13.05.20:845][158]PIE: Server logged in
+[2021.06.12-13.05.20:846][158]PIE: Play in editor total start time 0,168 seconds.
+[2021.06.12-13.05.24:584][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-13.05.24:584][518]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.12-13.05.24:584][518]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.06.12-13.05.24:584][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-13.05.24:594][518]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.12-13.05.24:601][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-13.05.24:643][518]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.12-13.05.24:644][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-13.05.24:645][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-13.05.24:664][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-13.05.24:669][518]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.06.12-13.05.24:691][519]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2021.06.12-13.05.29:285][998]LogEditorTransaction: Undo Edit Y
+[2021.06.12-13.05.29:494][  3]LogEditorTransaction: Undo Edit X
+[2021.06.12-13.05.29:716][  7]LogEditorTransaction: Undo Edit Y
+[2021.06.12-13.05.29:917][ 17]LogEditorTransaction: Undo Edit X
+[2021.06.12-13.05.30:188][ 44]LogEditorTransaction: Undo Edit Y
+[2021.06.12-13.05.30:435][ 70]LogEditorTransaction: Undo Edit X
+[2021.06.12-13.05.30:718][100]LogEditorTransaction: Undo Edit Y
+[2021.06.12-13.05.31:016][132]LogEditorTransaction: Undo Edit X
+[2021.06.12-13.05.31:294][161]LogEditorTransaction: Undo Edit Y
+[2021.06.12-13.05.31:574][190]LogEditorTransaction: Undo Edit X
+[2021.06.12-13.05.31:831][216]LogEditorTransaction: Undo Edit Y
+[2021.06.12-13.05.32:079][242]LogEditorTransaction: Undo Edit X
+[2021.06.12-13.05.32:344][270]LogEditorTransaction: Undo Edit Y
+[2021.06.12-13.05.32:598][296]LogEditorTransaction: Undo Edit X
+[2021.06.12-13.05.32:828][319]LogEditorTransaction: Undo Edit Y
+[2021.06.12-13.05.33:067][343]LogEditorTransaction: Undo Edit X
+[2021.06.12-13.05.33:331][370]LogEditorTransaction: Undo Edit Y
+[2021.06.12-13.05.33:574][394]LogEditorTransaction: Undo Edit X
+[2021.06.12-13.05.33:830][420]LogEditorTransaction: Undo Edit Y
+[2021.06.12-13.05.34:052][442]LogEditorTransaction: Undo Edit X
+[2021.06.12-13.05.34:281][464]LogEditorTransaction: Undo Edit Y
+[2021.06.12-13.05.34:511][487]LogEditorTransaction: Undo Edit X
+[2021.06.12-13.05.34:713][507]LogEditorTransaction: Undo Edit Y
+[2021.06.12-13.05.34:919][528]LogEditorTransaction: Undo Edit X
+[2021.06.12-13.05.35:134][550]LogEditorTransaction: Undo Edit Y
+[2021.06.12-13.05.35:333][570]LogEditorTransaction: Undo Edit X
+[2021.06.12-13.05.35:514][588]LogEditorTransaction: Undo Edit X
+[2021.06.12-13.05.35:695][606]LogEditorTransaction: Undo Edit Y
+[2021.06.12-13.05.35:868][623]LogEditorTransaction: Undo Edit Size To Content
+[2021.06.12-13.05.36:057][638]LogEditorTransaction: Undo Edit Size To Content
+[2021.06.12-13.05.36:264][659]LogEditorTransaction: Undo Edit Y
+[2021.06.12-13.05.36:584][690]LogEditorTransaction: Undo Edit X
+[2021.06.12-13.05.36:840][717]LogEditorTransaction: Undo Edit Y
+[2021.06.12-13.05.37:087][742]LogEditorTransaction: Undo Edit X
+[2021.06.12-13.05.37:328][767]LogEditorTransaction: Undo Edit Bottom
+[2021.06.12-13.05.41:346][182]LogEditorTransaction: Redo Edit Bottom
+[2021.06.12-13.05.41:616][188]LogEditorTransaction: Redo Edit X
+[2021.06.12-13.05.41:850][193]LogEditorTransaction: Redo Edit Y
+[2021.06.12-13.05.44:770][510]LogEditorTransaction: Redo Edit X
+[2021.06.12-13.05.45:227][554]LogEditorTransaction: Redo Edit Y
+[2021.06.12-13.05.45:655][594]LogEditorTransaction: Redo Edit Size To Content
+[2021.06.12-13.05.47:457][779]LogEditorTransaction: Redo Edit Size To Content
+[2021.06.12-13.05.49:232][962]BlueprintLog: New page: Compile W_Creature
+[2021.06.12-13.05.49:362][962]LogUObjectHash: Compacting FUObjectHashTables data took   6.35ms
+[2021.06.12-13.05.49:652][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Widgets/W_Creature" FILE="C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset" SILENT=true
+[2021.06.12-13.05.49:676][975]LogSavePackage: Moving 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/W_Creature59DC29FD4CD53923DC1DC8A35845C634.tmp' to 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Creature.uasset'
+[2021.06.12-13.05.49:694][975]AssetCheck: New page: Asset Save: W_Creature
+[2021.06.12-13.05.49:695][975]LogContentValidation: Display: Validating WidgetBlueprint /Game/Code/Widgets/W_Creature.W_Creature
+[2021.06.12-13.06.43:722][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2021.06.12-13.06.43:723][ 75]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.051
+[2021.06.12-13.06.43:724][ 75]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Code/Widgets/W_Main] ([2] browsable assets)...
+[2021.06.12-13.06.43:724][ 75]OBJ SavePackage: Finished generating thumbnails for package [/Game/Code/Widgets/W_Main]
+[2021.06.12-13.06.43:724][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Widgets/W_Main" FILE="C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/Autosaves/Game/Code/Widgets/W_Main_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2021.06.12-13.06.43:813][ 75]LogSavePackage: Moving 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/W_Main_Auto8F614CD0D41AD25182226CB8A934CC2D3.tmp' to 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/Autosaves/Game/Code/Widgets/W_Main_Auto8.uasset'
+[2021.06.12-13.06.43:815][ 75]LogFileHelpers: Auto-saving content packages took 0.091
+[2021.06.12-13.08.25:161][202]BlueprintLog: New page: Compile W_Main
+[2021.06.12-13.08.25:286][202]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2021.06.12-13.08.25:819][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Widgets/W_Main" FILE="C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Main.uasset" SILENT=true
+[2021.06.12-13.08.25:922][256]LogSavePackage: Moving 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/W_MainDCC509464C9911669119E59DD593F3A1.tmp' to 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/W_Main.uasset'
+[2021.06.12-13.08.25:941][256]AssetCheck: New page: Asset Save: W_Main
+[2021.06.12-13.08.25:941][256]LogContentValidation: Display: Validating WidgetBlueprint /Game/Code/Widgets/W_Main.W_Main
+[2021.06.12-13.08.27:570][416]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2021.06.12-13.08.28:759][550]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.06.12-13.08.28:784][550]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.06.12-13.08.28:785][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-13.08.28:800][550]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.06.12-13.08.28:800][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-13.08.28:959][550]LogWorld: UWorld::CleanupWorld for World_119, bSessionEnded=true, bCleanupResources=true
+[2021.06.12-13.08.28:959][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-13.08.28:969][550]LogWorld: UWorld::CleanupWorld for World_118, bSessionEnded=true, bCleanupResources=true
+[2021.06.12-13.08.28:970][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-13.08.29:074][550]LogWorld: UWorld::CleanupWorld for World_114, bSessionEnded=true, bCleanupResources=true
+[2021.06.12-13.08.29:074][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-13.08.29:085][550]LogWorld: UWorld::CleanupWorld for World_113, bSessionEnded=true, bCleanupResources=true
+[2021.06.12-13.08.29:085][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-13.08.29:155][550]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2021.06.12-13.08.29:155][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-13.08.29:281][550]LogWorld: UWorld::CleanupWorld for World_103, bSessionEnded=true, bCleanupResources=true
+[2021.06.12-13.08.29:281][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-13.08.29:296][550]LogWorld: UWorld::CleanupWorld for World_102, bSessionEnded=true, bCleanupResources=true
+[2021.06.12-13.08.29:296][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-13.08.29:400][550]LogSlate: Window 'Frankensteiner - Unreal Editor' being destroyed
+[2021.06.12-13.08.29:599][551]Cmd: QUIT_EDITOR
+[2021.06.12-13.08.29:599][551]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.06.12-13.08.29:602][551]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.06.12-13.08.30:230][551]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.06.12-13.08.30:230][551]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.06.12-13.08.30:230][551]LogAudio: Display: Audio Device unregistered from world 'Minimal_Default'.
+[2021.06.12-13.08.30:230][551]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-13.08.30:231][551]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-13.08.30:258][551]LogAudio: Display: Audio Device Manager Shutdown
+[2021.06.12-13.08.30:258][551]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.12-13.08.30:266][551]LogExit: Preparing to exit.
+[2021.06.12-13.08.30:597][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E2A300] Windows
+[2021.06.12-13.08.30:597][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E2A400] Default__DeviceProfile
+[2021.06.12-13.08.30:597][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE2D00] WindowsNoEditor
+[2021.06.12-13.08.30:597][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E29200] WindowsServer
+[2021.06.12-13.08.30:597][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE3D00] WindowsClient
+[2021.06.12-13.08.30:597][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E28200] IOS
+[2021.06.12-13.08.30:597][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE0B00] iPadAir
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E2AF00] iPadAir2
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92D86200] IPadPro
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92D86300] iPadAir3
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE1700] iPadAir4
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92D87A00] iPadMini2
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE0300] iPadMini3
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92D85700] iPadMini4
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE2800] iPadMini5
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DC1B00] iPhone6
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DC1C00] iPodTouch6
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E2A000] iPhone7
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E29300] iPodTouch7
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DC2C00] iPhone5S
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E2A900] iPhone6Plus
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DC1D00] iPhone6S
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E29E00] iPhone6SPlus
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DC1900] iPhone7Plus
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E29000] iPhoneSE
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DC2F00] iPhone8
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E29500] iPhone8Plus
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DC2A00] iPhoneX
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E28300] iPhoneXS
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DC2700] iPhoneXSMax
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E29100] iPhoneXR
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE3C00] iPhone11
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DC0C00] iPhone11Pro
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE3100] iPhone11ProMax
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DC3800] iPhoneSE2
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE1500] iPhone12Mini
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DC2500] iPhone12
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE1A00] iPhone12Pro
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DC3900] iPhone12ProMax
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE0C00] iPadPro105
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DC0A00] iPadPro129
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE3800] iPadPro97
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E29D00] iPadPro2_129
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE2100] iPad5
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E2B000] iPad6
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE2200] iPad7
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E29900] iPad8
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE0500] iPadPro11
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E2AC00] iPadPro2_11
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE3200] iPadPro3_129
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E28F00] iPadPro4_129
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE2F00] AppleTV
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E2B800] AppleTV4K
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE3F00] TVOS
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E2AA00] Mac
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE1D00] MacClient
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E2AD00] MacNoEditor
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE0F00] MacServer
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E29C00] Linux
+[2021.06.12-13.08.30:598][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE3300] LinuxAArch64
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E29400] LinuxNoEditor
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE3500] LinuxAArch64NoEditor
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E2A600] LinuxClient
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE2A00] LinuxAArch64Client
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E2BD00] LinuxServer
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE1B00] LinuxAArch64Server
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E2B200] Android
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE0800] Android_Low
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E2B600] Android_Mid
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE0200] Android_High
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E2B500] Android_Default
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE1000] Android_Adreno4xx
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E2A100] Android_Adreno5xx_Low
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE1F00] Android_Adreno5xx
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E2B100] Android_Adreno6xx
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE3600] Android_Adreno6xx_Vulkan
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E28100] Android_Mali_T6xx
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE1200] Android_Mali_T7xx
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E28700] Android_Mali_T8xx
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DE0D00] Android_Mali_G71
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92E2A700] Android_Mali_G72
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92D86B00] Android_Mali_G72_Vulkan
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DC0900] Android_Mali_G76
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92D84500] Android_Mali_G76_Vulkan
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DC1A00] Android_Mali_G77
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92D86600] Android_Mali_G77_Vulkan
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DC1300] Android_Vulkan_SM5
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92D84900] Android_PowerVR_G6xxx
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DC2900] Android_PowerVR_GT7xxx
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92D84400] Android_PowerVR_GE8xxx
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DC1700] Android_PowerVR_GM9xxx
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92D85600] Android_PowerVR_GM9xxx_Vulkan
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DC2800] Android_TegraK1
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92D87400] Android_Unknown_Vulkan
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DC0400] Lumin
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92D85A00] Lumin_Desktop
+[2021.06.12-13.08.30:599][551]LogDeviceProfile: Device profile begin destroy: [0000013E92DC3500] HoloLens
+[2021.06.12-13.08.30:622][551]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2021.06.12-13.08.30:629][551]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.06.12-13.08.30:732][551]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.06.12-13.08.30:758][551]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.06.12-13.08.30:982][551]LogExit: Editor shut down
+[2021.06.12-13.08.30:984][551]LogExit: Transaction tracking system shut down
+[2021.06.12-13.08.31:597][551]LogExit: Object subsystem successfully closed.
+[2021.06.12-13.08.31:625][551]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.06.12-13.08.31:643][551]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (836)
+[2021.06.12-13.08.31:643][551]LogModuleManager: Shutting down and abandoning module Voice (834)
+[2021.06.12-13.08.31:643][551]LogModuleManager: Shutting down and abandoning module SequencerWidgets (832)
+[2021.06.12-13.08.31:643][551]LogModuleManager: Shutting down and abandoning module BlueprintGraph (830)
+[2021.06.12-13.08.31:643][551]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (828)
+[2021.06.12-13.08.31:643][551]LogModuleManager: Shutting down and abandoning module SceneOutliner (824)
+[2021.06.12-13.08.31:643][551]LogModuleManager: Shutting down and abandoning module AddContentDialog (822)
+[2021.06.12-13.08.31:645][551]LogModuleManager: Shutting down and abandoning module WidgetCarousel (821)
+[2021.06.12-13.08.31:645][551]LogModuleManager: Shutting down and abandoning module EditorWidgets (818)
+[2021.06.12-13.08.31:645][551]LogModuleManager: Shutting down and abandoning module StatsViewer (816)
+[2021.06.12-13.08.31:645][551]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (814)
+[2021.06.12-13.08.31:645][551]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (812)
+[2021.06.12-13.08.31:645][551]LogModuleManager: Shutting down and abandoning module AutomationWorker (810)
+[2021.06.12-13.08.31:645][551]LogModuleManager: Shutting down and abandoning module SteamVREditor (808)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module OculusMR (806)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module GooglePADEditor (804)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (802)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (800)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (798)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (796)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (794)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (792)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (790)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module WebMMedia (788)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (786)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (784)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (782)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (780)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module SequenceRecorder (779)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (776)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (774)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (772)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (770)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (768)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (766)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (764)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module PlanarCut (762)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (760)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (758)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (756)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module CharacterAI (754)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module TextureAlignMode (752)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module BspMode (750)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module GeometryMode (748)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (746)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module SmartSnapping (744)
+[2021.06.12-13.08.31:646][551]LogModuleManager: Shutting down and abandoning module SessionServices (742)
+[2021.06.12-13.08.31:647][551]LogModuleManager: Shutting down and abandoning module MeshPaint (740)
+[2021.06.12-13.08.31:647][551]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (738)
+[2021.06.12-13.08.31:647][551]LogModuleManager: Shutting down and abandoning module FoliageEdit (736)
+[2021.06.12-13.08.31:647][551]LogModuleManager: Shutting down and abandoning module LandscapeEditor (734)
+[2021.06.12-13.08.31:647][551]LogModuleManager: Shutting down and abandoning module MeshPaintMode (732)
+[2021.06.12-13.08.31:647][551]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (730)
+[2021.06.12-13.08.31:647][551]LogModuleManager: Shutting down and abandoning module ActorPickerMode (728)
+[2021.06.12-13.08.31:647][551]LogModuleManager: Shutting down and abandoning module PlacementMode (726)
+[2021.06.12-13.08.31:647][551]LogModuleManager: Shutting down and abandoning module ViewportSnapping (724)
+[2021.06.12-13.08.31:647][551]LogModuleManager: Shutting down and abandoning module ViewportInteraction (722)
+[2021.06.12-13.08.31:647][551]LogModuleManager: Shutting down and abandoning module ClothPainter (720)
+[2021.06.12-13.08.31:647][551]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (719)
+[2021.06.12-13.08.31:647][551]LogModuleManager: Shutting down and abandoning module LogVisualizer (716)
+[2021.06.12-13.08.31:647][551]LogModuleManager: Shutting down and abandoning module IntroTutorials (714)
+[2021.06.12-13.08.31:647][551]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (713)
+[2021.06.12-13.08.31:648][551]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (710)
+[2021.06.12-13.08.31:648][551]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (708)
+[2021.06.12-13.08.31:648][551]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (706)
+[2021.06.12-13.08.31:648][551]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (705)
