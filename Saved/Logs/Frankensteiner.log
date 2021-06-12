@@ -1598,3 +1598,346 @@ Script call stack:
 [2021.06.12-07.30.45:762][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
 [2021.06.12-07.30.45:813][ 69]LogPlayLevel: Display: Destroying online subsystem :Context_21
 [2021.06.12-07.31.48:906][499]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2021.06.12-07.33.16:707][448]BlueprintLog: New page: Compile W_Conveyor
+[2021.06.12-07.33.16:811][448]LogUObjectHash: Compacting FUObjectHashTables data took   7.08ms
+[2021.06.12-07.33.17:243][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Widgets/Conveyor/W_Conveyor" FILE="C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/Conveyor/W_Conveyor.uasset" SILENT=true
+[2021.06.12-07.33.17:302][484]LogSavePackage: Moving 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/W_Conveyor63312A3E4069A566C9C5A4BCF90AE934.tmp' to 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/Conveyor/W_Conveyor.uasset'
+[2021.06.12-07.33.17:319][484]AssetCheck: New page: Asset Save: W_Conveyor
+[2021.06.12-07.33.17:319][484]LogContentValidation: Display: Validating WidgetBlueprint /Game/Code/Widgets/Conveyor/W_Conveyor.W_Conveyor
+[2021.06.12-07.34.18:197][312]BlueprintLog: New page: Compile W_Conveyor
+[2021.06.12-07.34.18:292][312]LogUObjectHash: Compacting FUObjectHashTables data took   7.67ms
+[2021.06.12-07.34.18:574][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Widgets/Conveyor/W_Conveyor" FILE="C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/Conveyor/W_Conveyor.uasset" SILENT=true
+[2021.06.12-07.34.18:635][334]LogSavePackage: Moving 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/W_ConveyorF3A46F5543536E3F6F21FF940674EE80.tmp' to 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/Conveyor/W_Conveyor.uasset'
+[2021.06.12-07.34.18:652][334]AssetCheck: New page: Asset Save: W_Conveyor
+[2021.06.12-07.34.18:652][334]LogContentValidation: Display: Validating WidgetBlueprint /Game/Code/Widgets/Conveyor/W_Conveyor.W_Conveyor
+[2021.06.12-07.35.02:038][137]LogSlate: Took 0.707547 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.06.12-07.35.18:515][964]BlueprintLog: New page: Compile W_Conveyor
+[2021.06.12-07.35.18:608][964]LogUObjectHash: Compacting FUObjectHashTables data took   6.52ms
+[2021.06.12-07.35.19:176][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Widgets/Conveyor/W_Conveyor" FILE="C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/Conveyor/W_Conveyor.uasset" SILENT=true
+[2021.06.12-07.35.19:242][ 19]LogSavePackage: Moving 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/W_Conveyor4845D72146A877C598E30398FD0BFEAB.tmp' to 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/Conveyor/W_Conveyor.uasset'
+[2021.06.12-07.35.19:257][ 19]AssetCheck: New page: Asset Save: W_Conveyor
+[2021.06.12-07.35.19:257][ 19]LogContentValidation: Display: Validating WidgetBlueprint /Game/Code/Widgets/Conveyor/W_Conveyor.W_Conveyor
+[2021.06.12-07.35.48:479][299]BlueprintLog: New page: Compile W_Conveyor
+[2021.06.12-07.35.48:583][299]LogUObjectHash: Compacting FUObjectHashTables data took   8.01ms
+[2021.06.12-07.35.48:860][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Widgets/Conveyor/W_Conveyor" FILE="C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/Conveyor/W_Conveyor.uasset" SILENT=true
+[2021.06.12-07.35.48:925][322]LogSavePackage: Moving 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/W_Conveyor8B9C56C5446026C1D5ED218E9FABC2E8.tmp' to 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/Conveyor/W_Conveyor.uasset'
+[2021.06.12-07.35.48:943][322]AssetCheck: New page: Asset Save: W_Conveyor
+[2021.06.12-07.35.48:943][322]LogContentValidation: Display: Validating WidgetBlueprint /Game/Code/Widgets/Conveyor/W_Conveyor.W_Conveyor
+[2021.06.12-07.36.20:147][650]BlueprintLog: New page: Compile W_Conveyor
+[2021.06.12-07.36.20:243][650]LogUObjectHash: Compacting FUObjectHashTables data took   7.14ms
+[2021.06.12-07.36.44:113][285]BlueprintLog: New page: Compile W_Conveyor
+[2021.06.12-07.36.44:212][285]LogUObjectHash: Compacting FUObjectHashTables data took   7.61ms
+[2021.06.12-07.36.44:614][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Widgets/Conveyor/W_Conveyor" FILE="C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/Conveyor/W_Conveyor.uasset" SILENT=true
+[2021.06.12-07.36.44:685][319]LogSavePackage: Moving 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/W_Conveyor549D43624B58D4422FA33A8D4342B268.tmp' to 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/Conveyor/W_Conveyor.uasset'
+[2021.06.12-07.36.44:706][319]AssetCheck: New page: Asset Save: W_Conveyor
+[2021.06.12-07.36.44:706][319]LogContentValidation: Display: Validating WidgetBlueprint /Game/Code/Widgets/Conveyor/W_Conveyor.W_Conveyor
+[2021.06.12-07.36.45:448][375]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.12-07.36.45:456][375]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.12-07.36.45:456][375]PIE: New page: PIE session: Minimal_Default (12 Jun 2021, 11:36:45)
+[2021.06.12-07.36.45:456][375]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.12-07.36.45:465][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008383s)
+[2021.06.12-07.36.45:467][375]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.06.12-07.36.45:468][375]LogPlayLevel: PIE: World Init took: (0.002503s)
+[2021.06.12-07.36.45:468][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.011139s)
+[2021.06.12-07.36.45:517][375]LogUObjectHash: Compacting FUObjectHashTables data took   6.98ms
+[2021.06.12-07.36.45:518][375]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.06.12-07.36.45:518][375]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.12-07.36.45:518][375]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.12-07.36.45:518][375]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.12-07.36.45:518][375]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.12-07.36.45:518][375]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.12-07.36.45:518][375]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.12-07.36.45:518][375]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.12-07.36.45:518][375]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.12-07.36.45:519][375]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.12-07.36.45:519][375]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.12-07.36.45:525][375]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.12-07.36.45:525][375]LogAudioMixer: Display: 1: FrontRight
+[2021.06.12-07.36.45:539][375]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2021.06.12-07.36.45:539][375]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.12-07.36.45:539][375]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.12-07.36.45:539][375]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.12-07.36.45:540][375]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.12-07.36.45:540][375]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.12-07.36.45:540][375]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.12-07.36.45:556][375]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.12-07.36.45:556][375]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.12-07.36.45:556][375]LogInit: FAudioDevice initialized.
+[2021.06.12-07.36.45:556][375]LogAudio: Display: Audio Device (ID: 15) registered with world 'Minimal_Default'.
+[2021.06.12-07.36.45:566][375]LogLoad: Game class is 'GameModeBase'
+[2021.06.12-07.36.45:567][375]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.06.12-09.36.45
+[2021.06.12-07.36.45:568][375]LogWorld: Bringing up level for play took: 0.001139
+[2021.06.12-07.36.45:568][375]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.06.12-07.36.45:571][375]LogBlueprintUserMessages: [W_Conveyor] X=1227.000 Y=20.000
+[2021.06.12-07.36.45:571][375]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.12-07.36.45:571][375]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.06.12-07.36.45:572][375]PIE: Server logged in
+[2021.06.12-07.36.45:573][375]PIE: Play in editor total start time 0,118 seconds.
+[2021.06.12-07.37.01:753][187]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.06.12-07.37.05:444][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-07.37.05:444][596]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.12-07.37.05:444][596]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.06.12-07.37.05:444][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-07.37.05:451][596]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.12-07.37.05:468][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-07.37.05:506][596]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.12-07.37.05:507][596]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-07.37.05:508][596]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-07.37.05:529][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-07.37.05:536][596]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2021.06.12-07.37.05:581][597]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.06.12-07.37.17:193][782]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Code/Widgets/Conveyor/W_ConveyorElement.W_ConveyorElement
+[2021.06.12-07.37.19:407][944]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2021.06.12-07.37.20:629][944]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.12-07.37.20:771][944]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.06.12-07.37.20:829][944]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.06.12-07.37.20:871][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.06.12-07.37.48:811][ 63]BlueprintLog: New page: Compile W_ConveyorElement
+[2021.06.12-07.37.48:874][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   7.35ms
+[2021.06.12-07.37.49:160][ 84]LogSavePackage: Moving 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/W_ConveyorElement3B342BE44735853EFD7655A26E7DAC50.tmp' to 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/Conveyor/W_ConveyorElement.uasset'
+[2021.06.12-07.37.49:184][ 84]AssetCheck: New page: Asset Save: W_ConveyorElement
+[2021.06.12-07.37.49:184][ 84]LogContentValidation: Display: Validating WidgetBlueprint /Game/Code/Widgets/Conveyor/W_ConveyorElement.W_ConveyorElement
+[2021.06.12-07.37.50:095][157]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.12-07.37.50:101][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.12-07.37.50:101][157]PIE: New page: PIE session: Minimal_Default (12 Jun 2021, 11:37:50)
+[2021.06.12-07.37.50:101][157]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.12-07.37.50:108][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006639s)
+[2021.06.12-07.37.50:109][157]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.06.12-07.37.50:110][157]LogPlayLevel: PIE: World Init took: (0.001780s)
+[2021.06.12-07.37.50:110][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008591s)
+[2021.06.12-07.37.50:161][157]LogUObjectHash: Compacting FUObjectHashTables data took   7.53ms
+[2021.06.12-07.37.50:165][157]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.06.12-07.37.50:165][157]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.12-07.37.50:165][157]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.12-07.37.50:165][157]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.12-07.37.50:165][157]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.12-07.37.50:165][157]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.12-07.37.50:165][157]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.12-07.37.50:165][157]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.12-07.37.50:165][157]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.12-07.37.50:166][157]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.12-07.37.50:166][157]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.12-07.37.50:172][157]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.12-07.37.50:172][157]LogAudioMixer: Display: 1: FrontRight
+[2021.06.12-07.37.50:186][157]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2021.06.12-07.37.50:187][157]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.12-07.37.50:187][157]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.12-07.37.50:187][157]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.12-07.37.50:187][157]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.12-07.37.50:187][157]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.12-07.37.50:187][157]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.12-07.37.50:205][157]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.12-07.37.50:205][157]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.12-07.37.50:205][157]LogInit: FAudioDevice initialized.
+[2021.06.12-07.37.50:205][157]LogAudio: Display: Audio Device (ID: 16) registered with world 'Minimal_Default'.
+[2021.06.12-07.37.50:214][157]LogLoad: Game class is 'GameModeBase'
+[2021.06.12-07.37.50:216][157]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.06.12-09.37.50
+[2021.06.12-07.37.50:217][157]LogWorld: Bringing up level for play took: 0.001187
+[2021.06.12-07.37.50:217][157]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.06.12-07.37.50:220][157]LogBlueprintUserMessages: [W_Conveyor] X=1227.000 Y=20.000
+[2021.06.12-07.37.50:220][157]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.12-07.37.50:220][157]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.06.12-07.37.50:220][157]PIE: Server logged in
+[2021.06.12-07.37.50:221][157]PIE: Play in editor total start time 0,121 seconds.
+[2021.06.12-07.37.52:023][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-07.37.52:023][328]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.12-07.37.52:023][328]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.06.12-07.37.52:023][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-07.37.52:034][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.12-07.37.52:050][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-07.37.52:091][328]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.12-07.37.52:092][328]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-07.37.52:093][328]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-07.37.52:113][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-07.37.52:119][328]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2021.06.12-07.37.52:160][329]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.06.12-07.38.03:642][579]BlueprintLog: New page: Compile W_Conveyor
+[2021.06.12-07.38.03:738][579]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2021.06.12-07.38.03:993][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Widgets/Conveyor/W_Conveyor" FILE="C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/Conveyor/W_Conveyor.uasset" SILENT=true
+[2021.06.12-07.38.04:059][599]LogSavePackage: Moving 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/W_Conveyor7F777D634B705A133894F099863938E2.tmp' to 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/Conveyor/W_Conveyor.uasset'
+[2021.06.12-07.38.04:086][599]AssetCheck: New page: Asset Save: W_Conveyor
+[2021.06.12-07.38.04:086][599]LogContentValidation: Display: Validating WidgetBlueprint /Game/Code/Widgets/Conveyor/W_Conveyor.W_Conveyor
+[2021.06.12-07.38.04:881][661]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.12-07.38.04:887][661]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.12-07.38.04:888][661]PIE: New page: PIE session: Minimal_Default (12 Jun 2021, 11:38:04)
+[2021.06.12-07.38.04:888][661]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.12-07.38.04:896][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007736s)
+[2021.06.12-07.38.04:897][661]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.06.12-07.38.04:897][661]LogPlayLevel: PIE: World Init took: (0.001314s)
+[2021.06.12-07.38.04:897][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.009215s)
+[2021.06.12-07.38.04:950][661]LogUObjectHash: Compacting FUObjectHashTables data took   7.25ms
+[2021.06.12-07.38.04:952][661]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.06.12-07.38.04:952][661]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.12-07.38.04:952][661]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.12-07.38.04:952][661]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.12-07.38.04:952][661]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.12-07.38.04:952][661]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.12-07.38.04:952][661]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.12-07.38.04:952][661]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.12-07.38.04:952][661]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.12-07.38.04:953][661]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.12-07.38.04:953][661]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.12-07.38.04:958][661]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.12-07.38.04:958][661]LogAudioMixer: Display: 1: FrontRight
+[2021.06.12-07.38.04:972][661]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2021.06.12-07.38.04:972][661]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.12-07.38.04:973][661]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.12-07.38.04:973][661]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.12-07.38.04:973][661]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.12-07.38.04:973][661]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.12-07.38.04:973][661]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.12-07.38.04:989][661]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.12-07.38.04:989][661]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.12-07.38.04:989][661]LogInit: FAudioDevice initialized.
+[2021.06.12-07.38.04:989][661]LogAudio: Display: Audio Device (ID: 17) registered with world 'Minimal_Default'.
+[2021.06.12-07.38.05:001][661]LogLoad: Game class is 'GameModeBase'
+[2021.06.12-07.38.05:003][661]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.06.12-09.38.05
+[2021.06.12-07.38.05:003][661]LogWorld: Bringing up level for play took: 0.001111
+[2021.06.12-07.38.05:004][661]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.06.12-07.38.05:007][661]LogBlueprintUserMessages: [W_Conveyor] X=1227.000 Y=20.000
+[2021.06.12-07.38.05:007][661]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.12-07.38.05:007][661]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.06.12-07.38.05:007][661]PIE: Server logged in
+[2021.06.12-07.38.05:008][661]PIE: Play in editor total start time 0,121 seconds.
+[2021.06.12-07.38.13:073][542]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 0
+[2021.06.12-07.38.13:073][542]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:HeldItemDropped
+
+[2021.06.12-07.38.19:732][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-07.38.19:732][962]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.12-07.38.19:732][962]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.06.12-07.38.19:733][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-07.38.19:740][962]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.12-07.38.19:755][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-07.38.19:794][962]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.12-07.38.19:795][962]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-07.38.19:796][962]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-07.38.19:817][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-07.38.19:823][962]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2021.06.12-07.38.19:864][963]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.06.12-07.39.11:811][856]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.12-07.39.11:817][856]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.12-07.39.11:817][856]PIE: New page: PIE session: Minimal_Default (12 Jun 2021, 11:39:11)
+[2021.06.12-07.39.11:817][856]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.12-07.39.11:824][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006676s)
+[2021.06.12-07.39.11:826][856]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.06.12-07.39.11:826][856]LogPlayLevel: PIE: World Init took: (0.001663s)
+[2021.06.12-07.39.11:826][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008519s)
+[2021.06.12-07.39.11:872][856]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2021.06.12-07.39.11:873][856]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.06.12-07.39.11:873][856]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.12-07.39.11:873][856]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.12-07.39.11:873][856]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.12-07.39.11:873][856]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.12-07.39.11:873][856]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.12-07.39.11:874][856]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.12-07.39.11:874][856]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.12-07.39.11:874][856]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.12-07.39.11:874][856]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.12-07.39.11:874][856]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.12-07.39.11:879][856]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.12-07.39.11:879][856]LogAudioMixer: Display: 1: FrontRight
+[2021.06.12-07.39.11:893][856]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2021.06.12-07.39.11:893][856]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.12-07.39.11:893][856]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.12-07.39.11:893][856]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.12-07.39.11:894][856]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.12-07.39.11:894][856]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.12-07.39.11:894][856]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.12-07.39.11:910][856]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.12-07.39.11:910][856]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.12-07.39.11:910][856]LogInit: FAudioDevice initialized.
+[2021.06.12-07.39.11:910][856]LogAudio: Display: Audio Device (ID: 18) registered with world 'Minimal_Default'.
+[2021.06.12-07.39.11:920][856]LogLoad: Game class is 'GameModeBase'
+[2021.06.12-07.39.11:921][856]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.06.12-09.39.11
+[2021.06.12-07.39.11:922][856]LogWorld: Bringing up level for play took: 0.001171
+[2021.06.12-07.39.11:922][856]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.06.12-07.39.11:925][856]LogBlueprintUserMessages: [W_Conveyor] X=1227.000 Y=20.000
+[2021.06.12-07.39.11:925][856]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.12-07.39.11:925][856]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.06.12-07.39.11:925][856]PIE: Server logged in
+[2021.06.12-07.39.11:926][856]PIE: Play in editor total start time 0,11 seconds.
+[2021.06.12-07.39.16:022][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-07.39.16:022][295]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.12-07.39.16:022][295]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.06.12-07.39.16:022][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-07.39.16:033][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.12-07.39.16:050][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-07.39.16:089][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-07.39.16:090][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-07.39.16:091][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-07.39.16:116][295]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2021.06.12-07.39.16:158][296]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.06.12-07.39.21:481][719]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Code/Widgets/Table/W_Table.W_Table
+[2021.06.12-07.39.56:822][717]BlueprintLog: New page: Compile Minimal_Default
+[2021.06.12-07.39.56:916][717]LogUObjectHash: Compacting FUObjectHashTables data took   6.97ms
+[2021.06.12-07.39.57:297][749]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2021.06.12-07.39.57:338][749]LogSavePackage: Moving 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/Minimal_Default719A0B56448F683540BCA4B723BF019C.tmp' to 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.06.12-07.39.57:353][749]LogFileHelpers: Saving map 'Minimal_Default' took 0.108
+[2021.06.12-07.39.57:371][749]AssetCheck: New page: Asset Save: Minimal_Default
+[2021.06.12-07.39.57:371][749]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.06.12-07.39.58:450][834]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.12-07.39.58:457][834]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.12-07.39.58:457][834]PIE: New page: PIE session: Minimal_Default (12 Jun 2021, 11:39:58)
+[2021.06.12-07.39.58:457][834]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.12-07.39.58:465][834]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007176s)
+[2021.06.12-07.39.58:466][834]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.06.12-07.39.58:466][834]LogPlayLevel: PIE: World Init took: (0.001360s)
+[2021.06.12-07.39.58:466][834]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008703s)
+[2021.06.12-07.39.58:516][834]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2021.06.12-07.39.58:517][834]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.06.12-07.39.58:517][834]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.12-07.39.58:517][834]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.12-07.39.58:517][834]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.12-07.39.58:517][834]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.12-07.39.58:517][834]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.12-07.39.58:517][834]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.12-07.39.58:517][834]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.12-07.39.58:517][834]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.12-07.39.58:517][834]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.12-07.39.58:517][834]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.12-07.39.58:523][834]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.12-07.39.58:523][834]LogAudioMixer: Display: 1: FrontRight
+[2021.06.12-07.39.58:537][834]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2021.06.12-07.39.58:537][834]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.12-07.39.58:537][834]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.12-07.39.58:537][834]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.12-07.39.58:538][834]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.12-07.39.58:538][834]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.12-07.39.58:538][834]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.12-07.39.58:554][834]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.12-07.39.58:554][834]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.12-07.39.58:554][834]LogInit: FAudioDevice initialized.
+[2021.06.12-07.39.58:555][834]LogAudio: Display: Audio Device (ID: 19) registered with world 'Minimal_Default'.
+[2021.06.12-07.39.58:561][834]LogLoad: Game class is 'GameModeBase'
+[2021.06.12-07.39.58:563][834]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.06.12-09.39.58
+[2021.06.12-07.39.58:563][834]LogWorld: Bringing up level for play took: 0.001142
+[2021.06.12-07.39.58:563][834]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.06.12-07.39.58:566][834]LogBlueprintUserMessages: [W_Conveyor] X=1227.000 Y=20.000
+[2021.06.12-07.39.58:567][834]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.12-07.39.58:567][834]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.06.12-07.39.58:567][834]PIE: Server logged in
+[2021.06.12-07.39.58:568][834]PIE: Play in editor total start time 0,112 seconds.
+[2021.06.12-07.40.06:997][748]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_CustomEvent', from offset 0
+[2021.06.12-07.40.06:997][748]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:HeldItemDropped
+	Function /Game/Code/Widgets/Conveyor/W_Conveyor.W_Conveyor_C:Item Commited
+
+[2021.06.12-07.40.16:132][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-07.40.16:132][395]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.06.12-07.40.16:133][395]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.06.12-07.40.16:133][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-07.40.16:140][395]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.12-07.40.16:158][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-07.40.16:201][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-07.40.16:202][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-07.40.16:204][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-07.40.16:228][395]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2021.06.12-07.40.16:271][396]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.06.12-07.40.30:979][673]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2021.06.12-07.40.31:010][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Code/Widgets/Conveyor/W_Conveyor" FILE="C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/Conveyor/W_Conveyor.uasset" SILENT=true
+[2021.06.12-07.40.31:079][673]LogSavePackage: Moving 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Saved/W_ConveyorBB2629C24155E0FB41C079A5951A2F54.tmp' to 'C:/Users/Yogurt/Documents/Unreal Projects/Frankensteiner/Content/Code/Widgets/Conveyor/W_Conveyor.uasset'
+[2021.06.12-07.40.31:097][673]AssetCheck: New page: Asset Save: W_Conveyor
+[2021.06.12-07.40.31:097][673]LogContentValidation: Display: Validating WidgetBlueprint /Game/Code/Widgets/Conveyor/W_Conveyor.W_Conveyor
